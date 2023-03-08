@@ -1,0 +1,17 @@
+"Phrases"
+{
+	"CoolDownAnnounce"
+	{
+		"#format"	"{1:i}"
+		"ru"		"Рывок будет доступен через {1} секунд"
+		"ua"		"Ривок буде доступний через {1} секунд"
+		"en"		"The jerk will be available in {1} seconds"
+	}
+	
+	"JerkAvailable"
+	{
+		"ru"		"Рывок снова доступен"
+		"ua"		"Ривок знову доступний"
+		"en"		"The jerk is available again"
+	}
+}
